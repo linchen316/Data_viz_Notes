@@ -1,0 +1,5 @@
+1. Data visualization is a study of the visual representation of data.
+2. The visual representation of such data is defined as information that is extracted in a summary form.
+3. It includes various attributes and variables of the corresponding information unit.
+4. Graphically and clearly communicate and communicate information.
+5. In-depth insight into fairly sparse and complex data sets by visually communicating key aspects and features. 
